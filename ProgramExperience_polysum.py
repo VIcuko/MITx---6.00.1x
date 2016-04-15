@@ -1,4 +1,5 @@
-'''Regular Polygons: polysum
+'''
+Regular Polygons: polysum
 
 A regular polygon has 'n' number of sides. Each side has length 's'.
 
